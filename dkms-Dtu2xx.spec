@@ -1,6 +1,6 @@
 %define modname Dtu2xx
 %define version 3.1.0.30
-%define release %mkrel 1
+%define release %mkrel 2
 %define modversion %{version}-%{release}
 
 Name:     dkms-%{modname}
