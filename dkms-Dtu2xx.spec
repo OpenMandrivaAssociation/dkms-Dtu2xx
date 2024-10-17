@@ -13,7 +13,7 @@ License:  GPLv2
 # Extracted from http://www.dektec.com/Products/SDK/LinuxSDK/Downloads/LinuxSDK.zip
 # which contains several drivers and some non free libraries
 Source0:  %{modname}.tar.gz
-Url:      http://www.dektec.com/downloads/Drivers.asp
+Url:      https://www.dektec.com/downloads/Drivers.asp
 Group:    Development/Kernel
 Requires(post):  dkms
 Requires(preun): dkms
